@@ -1,4 +1,4 @@
-// Challenge 1:
+// Challenge 1: finished
 // - Create a new .Net Core minimal API
 // - Create a new class model Category (ID, Name)
 // - Create one endpoint to get category data (hard-coded data)
